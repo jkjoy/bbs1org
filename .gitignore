@@ -1,7 +1,0 @@
-data/*.sqlite
-data/*.sqlite-*
-cache/
-*.lock
-update.php
-.claude
-.DS_Store
